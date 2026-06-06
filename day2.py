@@ -79,5 +79,5 @@ if purchased_amount>5000:
     final_price=purchased_amount*80/100
     print(final_price)
 else:
-    print("thank you")        
+    print("thank you")       
     
